@@ -11,10 +11,10 @@ A simple authentication using Node JS is used
 
 Instructions to clone and use this project
 <h1>Step 1 - Clone the provided code using manual method or by downloading the zip file.</h1>
-<h2>Step 2 - Use the command "npm install" to install the node_modules required after navigating to "cd client" and "cd server"</h2>
-<h3>Step 3 - After successful installation of the node modules, use the command "npm start" to build your respective application.</h3>
-<h4>Step 4 - Voila! You have your full-stack application ready to use.</h4>
-<h5>Step 5 - The application is completely authemnticated and viable for addition of any random values.</h5><br><br>
+<h1>Step 2 - Use the command "npm install" to install the node_modules required after navigating to "cd client" and "cd server"</h1>
+<h1>Step 3 - After successful installation of the node modules, use the command "npm start" to build your respective application.</h1>
+<h1>Step 4 - Voila! You have your full-stack application ready to use.</h1>
+<h1>Step 5 - The application is completely authemnticated and viable for addition of any random values.</h1><br><br>
 Additional P.S - You can also add videos, gip format videos, voice messages, emoji stickers and many more using this application!
 
 
