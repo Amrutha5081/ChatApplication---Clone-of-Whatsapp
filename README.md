@@ -18,4 +18,8 @@ Instructions to clone and use this project
 Additional P.S - You can also add videos, gip format videos, voice messages, emoji stickers and many more using this application!
 
 
+For deployment, you can use 
+<h1> FrontEnd Deployment - Vercel, Netlify</h1>
+
+
 -Happy Coding.
